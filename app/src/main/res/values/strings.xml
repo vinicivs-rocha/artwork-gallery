@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Artwork Gallery</string>
+    <string name="tomorrow_i_may_be_far_away">Tomorrow I May Be Far Away</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="a_poet_reading">A Poet Reading</string>
+    <string name="fruit_and_flowers">Fruit and Flowers</string>
+</resources>
